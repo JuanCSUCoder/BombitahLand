@@ -3,3 +3,4 @@
 saves/*
 logs/*
 *.log
+journeymap/data/*
