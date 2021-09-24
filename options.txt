@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
 key_key.attack:-100
@@ -105,7 +105,7 @@ key_key.vehicle.cycle_seats:0
 key_walljump.key.walljump:42
 key_key.securitycraft.cameraZoomIn:13
 key_key.securitycraft.cameraZoomOut:12
-key_key.securitycraft.cameraEmitRedstone:19
+key_key.securitycraft.cameraEmitRedstone:0
 key_key.securitycraft.cameraActivateNightVision:49
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
@@ -131,12 +131,12 @@ key_emoticons.keys.emote6:77
 key_emoticons.keys.emotes:25
 key_emoticons.keys.stop_emote:0
 key_emoticons.keys.reload_emotes:0
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
-key_key.mts.config:25
+key_waila.keybind.wailaconfig:0
+key_waila.keybind.wailadisplay:0
+key_waila.keybind.liquid:0
+key_waila.keybind.recipe:0
+key_waila.keybind.usage:0
+key_key.mts.config:0
 key_tombstone.message.knowledge_of_death:0
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
