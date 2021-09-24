@@ -2318,7 +2318,32 @@
       ],
       "resourcePacks": [],
       "maps": [],
-      "shaderpacks": [],
+      "shaderpacks": [
+        {
+          "stateGameElement": "active",
+          "id": 10000040,
+          "name": "Sildur's Vibrant",
+          "version": {
+            "id": 11001743,
+            "name": "Sildurs Vibrant Shaders v1.283 Medium",
+            "metadata": {
+              "sha1": "c95a3639a28c99aadb06a25a763e1456c5b66e4e",
+              "size": 141334,
+              "path": "shaderpacks/Sildurs Vibrant Shaders v1.283 Medium.zip",
+              "url": "/shaderpacks/10000040/11001743/Sildurs%20Vibrant%20Shaders%20v1.283%20Medium.zip"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 9999999,
+              "dependencyType": "required"
+            }
+          ]
+        }
+      ],
       "forgeVersion": "14.23.5.2855",
       "gameVersion": "1.12.2",
       "id": -777379198801,
