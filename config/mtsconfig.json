@@ -148,6 +148,10 @@
         "lava": 1.0,
         "oil": 0.5,
         "biodiesel": 0.8
+      },
+      "avgas": {
+        "lava": 1.0,
+        "gasoline": 1.0
       }
     },
     "lastLoadedFluids": {
