@@ -31,7 +31,7 @@ ofLagometer:false
 ofShowFps:false
 ofAutoSaveTicks:4000
 ofBetterGrass:1
-ofConnectedTextures:2
+ofConnectedTextures:3
 ofWeather:true
 ofSky:true
 ofStars:true
@@ -47,7 +47,7 @@ ofProfiler:false
 ofBetterSnow:true
 ofSwampColors:true
 ofRandomEntities:true
-ofSmoothBiomes:true
+ofSmoothBiomes:false
 ofCustomFonts:true
 ofCustomColors:true
 ofCustomItems:true
@@ -60,7 +60,7 @@ ofRenderRegions:true
 ofSmartAnimations:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:2
+ofDynamicLights:1
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
