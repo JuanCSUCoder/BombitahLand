@@ -154,6 +154,11 @@
       "avgas": {
         "lava": 1.0,
         "gasoline": 1.0
+      },
+      "gasoline": {
+        "lava": 1.0,
+        "gasoline": 1.0,
+        "ethanol": 0.85
       }
     },
     "lastLoadedFluids": {

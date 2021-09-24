@@ -2243,6 +2243,77 @@
           },
           "userInstall": false,
           "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 248453,
+          "name": "Shadowfacts' Forgelin",
+          "version": {
+            "id": 2785465,
+            "name": "Forgelin-1.8.4",
+            "metadata": {
+              "sha1": "7a87553fcb808a45d9c7e03f113b355ac7fd10d7",
+              "size": 6278399,
+              "path": "mods/Forgelin-1.8.4.jar",
+              "url": "/mods/248453/2785465/Forgelin-1.8.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 310059,
+          "name": "Future MC",
+          "version": {
+            "id": 3194413,
+            "name": "1.12.2 0.2.6.1",
+            "metadata": {
+              "sha1": "a06a8f8219619a8a99e01a487e724b93f67bfce5",
+              "size": 14381704,
+              "path": "mods/future-mc-1.12.2-0.2.6.1.jar",
+              "url": "/mods/310059/3194413/future-mc-1.12.2-0.2.6.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 239197,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 74072,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 243121,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 246760,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 221857,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 248453,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "dependencyType": "optional"
+            }
+          ]
         }
       ],
       "resourcePacks": [],
