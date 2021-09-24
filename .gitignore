@@ -2,3 +2,4 @@
 *.so
 saves/*
 logs/*
+*.log
