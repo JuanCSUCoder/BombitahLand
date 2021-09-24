@@ -73,7 +73,9 @@
       "comment": "Factor for how biome temp affects engine temp.  Higher values will make engines heat up quicker in hotter biomes."
     },
     "joinedPlayers": {
-      "value": [],
+      "value": [
+        "dc2df35a-b161-11e9-8bf5-002590a1379b"
+      ],
       "comment": "Listing of players that have joined this world.  Players will be given the manual on their first join."
     },
     "itemWeights": {
