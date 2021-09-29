@@ -93,8 +93,6 @@ key_Wardrobe:17
 key_key.aim:56
 key_key.reload:19
 key_key.unload:22
-key_mvc.config.pushtotalk:47
-key_mvc.config.openconfig:0
 key_key.musicplayer.open:66
 key_key.musicplayer.pause:72:ALT
 key_key.musicplayer.skip.forward:73:ALT
@@ -136,7 +134,6 @@ key_waila.keybind.wailadisplay:0
 key_waila.keybind.liquid:0
 key_waila.keybind.recipe:0
 key_waila.keybind.usage:0
-key_key.mts.config:0
 key_tombstone.message.knowledge_of_death:0
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
