@@ -1460,23 +1460,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 59218,
-          "name": "bspkrsCore",
-          "version": {
-            "id": 2924423,
-            "name": "[1.12.2]bspkrscore-universal-8.0.1",
-            "metadata": {
-              "sha1": "50c64ec7245c3f76a563d64c85e6ca3d549b1828",
-              "size": 66628,
-              "path": "mods/[1.12.2]bspkrscore-universal-8.0.1.jar",
-              "url": "/mods/59218/2924423/%255b1.12.2%255dbspkrscore-universal-8.0.1.jar"
-            }
-          },
-          "userInstall": false,
-          "populateStatus": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 225280,
           "name": "ChocoCraft",
           "version": {
