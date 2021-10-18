@@ -4,3 +4,5 @@ saves/*
 logs/*
 *.log
 journeymap/data/*
+bookmarks.ini
+**cache**
