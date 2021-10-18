@@ -1,5 +1,5 @@
-#Fri Sep 24 10:05:27 COT 2021
-shaderPack=Sildurs Vibrant Shaders v1.283 Medium.zip
+#Fri Oct 15 18:08:54 COT 2021
+shaderPack=OFF
 TexMinFilB=0
 handDepthMul=0.125
 TexMagFilS=0
