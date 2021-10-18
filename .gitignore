@@ -6,3 +6,4 @@ logs/*
 journeymap/data/*
 bookmarks.ini
 **cache**
+**report**
