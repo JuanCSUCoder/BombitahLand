@@ -2093,13 +2093,81 @@
               "dependencyType": "optional"
             }
           ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": -40023695831008,
+          "name": "OpenBlocks-1.12.2-1.8.1",
+          "version": {
+            "id": -40023763157383,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6c231ff28e0c80025b0ec11f86ce9de1e9d109db",
+              "size": 3217616,
+              "path": "mods/OpenBlocks-1.12.2-1.8.1.jar",
+              "url": "mods/OpenBlocks-1.12.2-1.8.1.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -40023763218027,
+          "name": "replantingcrops_1.12.2-2.2",
+          "version": {
+            "id": -40023797934149,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b0cb86cf24c0736ba60044dab0584258157fe664",
+              "size": 8005,
+              "path": "mods/replantingcrops_1.12.2-2.2.jar",
+              "url": "mods/replantingcrops_1.12.2-2.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -40023797991236,
+          "name": "OpenModsLib-1.12.2-0.12.2",
+          "version": {
+            "id": -40023878697440,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "210cc6b18b63ae0d3110b8e8ed843bc847627eb0",
+              "size": 2639587,
+              "path": "mods/OpenModsLib-1.12.2-0.12.2.jar",
+              "url": "mods/OpenModsLib-1.12.2-0.12.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -40023878753275,
+          "name": "collective-1.12.2-2.64",
+          "version": {
+            "id": -40023933062914,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "879d9b07977bf4687aee0cb0c35b8cc3bd7c425b",
+              "size": 128757,
+              "path": "mods/collective-1.12.2-2.64.jar",
+              "url": "mods/collective-1.12.2-2.64.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
         }
       ],
       "resourcePacks": [],
       "maps": [],
       "shaderpacks": [
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 10000040,
           "name": "Sildur's Vibrant",
           "version": {
