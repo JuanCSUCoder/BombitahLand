@@ -2178,6 +2178,23 @@
           },
           "userInstall": false,
           "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 313590,
+          "name": "ArtemisLib",
+          "version": {
+            "id": 2741812,
+            "name": "1.12.2-v1.0.6",
+            "metadata": {
+              "sha1": "e0d1519ae0ef09618933acb8851f76341239f3a5",
+              "size": 21318,
+              "path": "mods/ArtemisLib-1.12.2-v1.0.6.jar",
+              "url": "/mods/313590/2741812/ArtemisLib-1.12.2-v1.0.6.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
         }
       ],
       "resourcePacks": [],
