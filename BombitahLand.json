@@ -2161,6 +2161,23 @@
           },
           "userInstall": true,
           "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 55438,
+          "name": "MrCrayfish's Furniture Mod",
+          "version": {
+            "id": 11000937,
+            "name": "6.3.1-1.12.2",
+            "metadata": {
+              "sha1": "05fcc338d115ba09266ab2da39027ae319efba18",
+              "size": 2435626,
+              "path": "mods/furniture-6.3.1-1.12.2.jar",
+              "url": "/mods/55438/11000937/furniture-6.3.1-1.12.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
         }
       ],
       "resourcePacks": [],
